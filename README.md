@@ -2,8 +2,6 @@
 
 An end-to-end machine learning application that automatically parses and ranks candidate resumes against job descriptions using Natural Language Processing (NLP). 
 
-![alt text](<Screenshot 2026-08-11 142145.png>)
-
 ## 🚀 Overview
 
 Developed an ML-based resume matcher to automate candidate screening. This tool evaluates the semantic similarity between a job description and a candidate's resume, outputting a precise match percentage. It features a RESTful FastAPI backend for the machine learning engine and an interactive Streamlit frontend for ease of use.
